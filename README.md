@@ -1,7 +1,11 @@
 # Robot-Framework
 Testando uma aplicação web - Site Organo
 
-### Este projeto tem como objetivo realizar testes em uma aplicação web utilizando as seguintes técnicas e tecnologias:
+### Este projeto tem como objetivo realizar testes em uma aplicação web
+
+### Detalhes do projeto
+
+A aplicação web a ser testada se chama Organo, e se trata de um site que possui um formulário de cadastro de funcionários para organizar times de uma empresa, contendo campos como nome, cargo, imagem e confirmação de time. O objetivo dos testes é garantir que o formulário esteja funcionando corretamente, validando campos obrigatórios, preenchimento correto de informações e criação do card ao final.
 
 - Verificação de campos de um formulário
 - Utilização de locators para identificação de elementos na página
@@ -9,10 +13,6 @@ Testando uma aplicação web - Site Organo
 - Utilização de estruturas de repetição para otimizar o processo de teste
 - Utilização de Massa de Dados para testes mais abrangentes
 - Utilização de Page Objects para modularização e reutilização de código
-
-### Detalhes do projeto
-
-A aplicação web a ser testada se chama Organo, e se trata de um site que possui um formulário de cadastro de funcionários para organizar times de uma empresa, contendo campos como nome, cargo, imagem e confirmação de time. O objetivo dos testes é garantir que o formulário esteja funcionando corretamente, validando campos obrigatórios, preenchimento correto de informações e criação do card ao final.
 
 ### Técnicas e tecnologias utilizadas
 
